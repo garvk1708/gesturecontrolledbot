@@ -1,0 +1,1 @@
+This project enables gesture control of a robot using a webcam for hand tracking. It uses OpenCV and MediaPipe to interpret finger gestures, sending commands to an ESP8266 microcontroller. The ESP8266 controls motors with PWM for smooth movements, allowing the robot to move forward, backward, or turn based on hand signals.
